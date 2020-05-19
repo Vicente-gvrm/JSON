@@ -1,0 +1,13 @@
+{ 
+  "nakamas" : [ 
+     { "firstName":"Luffy" , "lastName":"Monkay.D" , "recompensa": [  
+        { "alive":"1.500.000.000$" , "dead":"1.000.000.000$"}
+      ]}, 
+     { "firstName":"Zoro" , "lastName":"Roronoa" , "recompensa": [ 
+        { "alive":"320.000.000$" , "dead":"300.000.000$"}
+      ]}, 
+     { "firstName":"Sanji" , "lastName":"Vinsmoke" , "recompensa": [ 
+        { "alive":"330.000.000$" , "dead":"300.000.000$"}
+      ]}
+  ]
+};
