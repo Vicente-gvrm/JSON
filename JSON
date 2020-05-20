@@ -1,6 +1,6 @@
 { 
-  "barco":"Sunny",
   "nombrebanda":"Mugiwaras",
+  "barco":"Sunny",
   "nakamas" : [ 
      {"profession":"Capitan" , "firstName":"Luffy" , "lastName":"Monkay.D" , "recompensa": [  
         { "alde":"1.500.000.000$"}
