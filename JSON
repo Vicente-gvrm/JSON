@@ -1,28 +1,24 @@
 {
-  "squadName": "Super hero squad",
-  "homeTown": "Metro City",
-  "formed": 2016,
-  "secretBase": "Super tower",
-  "active": true,
-  "members": [
+  "nombreSquad": "Vengadores",
+  "ciudadResidente": "New York",
+  "Formados": 1986,
+  "base": "Avvenger's Tower",
+  "mienbros": [
     {
-      "name": "Molecule Man",
-      "age": 29,
-      "secretIdentity": "Dan Jukes",
-      "powers": [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
-      ]
-    },
+      "nombre": "Iron Man",
+      "edad": 57,
+      "verdIdentidad": "Tony Stark",
+      "poderes": [
+        "Ciencia",
+        "Mucho dinero"
+      ]},
     {
-      "name": "Madame Uppercut",
-      "age": 39,
-      "secretIdentity": "Jane Wilson",
-      "powers": [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
+      "nombre": "Madame Uppercut",
+      "edad": 80,
+      "verdIdentidad": "Steve Roger",
+      "poderes": [
+        "Suero que le hizo fuerte",
+        "Escudo de una aleacion de vivranium y adamantium",
       ]}
   ]
 };
