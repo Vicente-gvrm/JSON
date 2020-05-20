@@ -2,13 +2,13 @@
   "nombrebanda":"Mugiwaras",
   "nakamas" : [ 
      {"profession":"Capitan" , "firstName":"Luffy" , "lastName":"Monkay.D" , "recompensa": [  
-        { "alive":"1.500.000.000$" , "dead":"1.000.000.000$"}
+        { "alde":"1.500.000.000$"}
       ]}, 
      {"profession":"Espadachin" , "firstName":"Zoro" , "lastName":"Roronoa" , "recompensa": [ 
-        { "alive":"320.000.000$" , "dead":"300.000.000$"}
+        { "alde":"320.000.000$"}
       ]}, 
      {"profession":"Cocinero" , "firstName":"Sanji" , "lastName":"Vinsmoke" , "recompensa": [ 
-        { "alive":"330.000.000$" , "dead":"300.000.000$"}
+        { "alde":"330.000.000$"}
       ]}
   ]
 };
