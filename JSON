@@ -1,4 +1,5 @@
 { 
+  "barco":"Sunny",
   "nombrebanda":"Mugiwaras",
   "nakamas" : [ 
      {"profession":"Capitan" , "firstName":"Luffy" , "lastName":"Monkay.D" , "recompensa": [  
