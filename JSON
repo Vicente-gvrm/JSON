@@ -1,4 +1,5 @@
 { 
+  "nombrebanda":"Mugiwaras",
   "nakamas" : [ 
      { "firstName":"Luffy" , "lastName":"Monkay.D" , "recompensa": [  
         { "alive":"1.500.000.000$" , "dead":"1.000.000.000$"}
